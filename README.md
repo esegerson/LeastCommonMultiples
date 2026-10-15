@@ -12,6 +12,8 @@ Another example, for n=5, 60 is the smallest number that is divisible by 5, 4, 3
 
 420 is the smallest number that is divisible by 2, 3, 4, 5, 6, and 7.
 
-## View solutions
+## Solutions
 
-You can [view the computed solutions here](https://esegerson.github.io/LeastCommonMultiples/).
+Using my algorithm, I determined 2, 6, 12, 60, 60, 420 are the first few solutions for n=2 through 7.
+
+You can [view the computed solutions here](https://esegerson.github.io/LeastCommonMultiples/) up to n=16. Beyond that, my terrible algorithm will lock up the browser.
